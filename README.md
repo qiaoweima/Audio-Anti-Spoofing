@@ -2,7 +2,7 @@
 # DataSet
 ASVspoof 2019 LA & ASVspoof 2015
 # Usage
-### installation
+### Installation
 ```
 pip install -r requirements.txt
 ```
