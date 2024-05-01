@@ -2,6 +2,10 @@
 # DataSet
 ASVspoof 2019 LA & ASVspoof 2015
 # Usage
+### installation
+```
+pip install -r requirements.txt
+```
 ### Data Preparation
 ```
 python ASVspoof15&19_LA_Data_Preparation.py 
